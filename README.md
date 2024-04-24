@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Front End Development.
-- 🌱 I’m currently learning Figma, HTML, CSS, Bootstrap and JavaScript.
-- 👯 I’m looking to collaborate on Front End Development Projects.
-- 🤔 I’m looking for help with real life web deveopment projects.
-- 💬 Ask me about Front End Development.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Backend Development.
+- 🌱 I’m currently learning Django, Flask, and Machine learning libraries.
+- 👯 I’m looking to collaborate on Python Projects.
+- 🤔 I’m looking ot help with real life web deveopment projects.
+- 💬 Ask me about Backend Development.
+- 📫 How to reach me: aamiralikhuhro6@gmail.com  
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Single
